@@ -1,5 +1,4 @@
 步骤1：下载和安装PyCharm
-
 首先，您需要从JetBrains官网下载并安装PyCharm。
 步骤2：设置Python解释器
 1.打开PyCharm，并创建或打开您的项目。
